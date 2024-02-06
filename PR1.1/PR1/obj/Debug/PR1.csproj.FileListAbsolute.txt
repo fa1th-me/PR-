@@ -1,0 +1,10 @@
+C:\Users\ip521-06.EMK\source\repos\PR1\PR1\bin\Debug\PR1.exe.config
+C:\Users\ip521-06.EMK\source\repos\PR1\PR1\bin\Debug\PR1.exe
+C:\Users\ip521-06.EMK\source\repos\PR1\PR1\bin\Debug\PR1.pdb
+C:\Users\ip521-06.EMK\source\repos\PR1\PR1\obj\Debug\PR1.csproj.AssemblyReference.cache
+C:\Users\ip521-06.EMK\source\repos\PR1\PR1\obj\Debug\PR1.Form1.resources
+C:\Users\ip521-06.EMK\source\repos\PR1\PR1\obj\Debug\PR1.Properties.Resources.resources
+C:\Users\ip521-06.EMK\source\repos\PR1\PR1\obj\Debug\PR1.csproj.GenerateResource.cache
+C:\Users\ip521-06.EMK\source\repos\PR1\PR1\obj\Debug\PR1.csproj.CoreCompileInputs.cache
+C:\Users\ip521-06.EMK\source\repos\PR1\PR1\obj\Debug\PR1.exe
+C:\Users\ip521-06.EMK\source\repos\PR1\PR1\obj\Debug\PR1.pdb

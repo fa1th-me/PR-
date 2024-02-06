@@ -1,0 +1,10 @@
+C:\Users\ip521-06.EMK\source\repos\cycles\cycles\bin\Debug\cycles.exe.config
+C:\Users\ip521-06.EMK\source\repos\cycles\cycles\bin\Debug\cycles.exe
+C:\Users\ip521-06.EMK\source\repos\cycles\cycles\bin\Debug\cycles.pdb
+C:\Users\ip521-06.EMK\source\repos\cycles\cycles\obj\Debug\cycles.csproj.AssemblyReference.cache
+C:\Users\ip521-06.EMK\source\repos\cycles\cycles\obj\Debug\cycles.Form1.resources
+C:\Users\ip521-06.EMK\source\repos\cycles\cycles\obj\Debug\cycles.Properties.Resources.resources
+C:\Users\ip521-06.EMK\source\repos\cycles\cycles\obj\Debug\cycles.csproj.GenerateResource.cache
+C:\Users\ip521-06.EMK\source\repos\cycles\cycles\obj\Debug\cycles.csproj.CoreCompileInputs.cache
+C:\Users\ip521-06.EMK\source\repos\cycles\cycles\obj\Debug\cycles.exe
+C:\Users\ip521-06.EMK\source\repos\cycles\cycles\obj\Debug\cycles.pdb
